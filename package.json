@@ -1,0 +1,24 @@
+{
+  "name": "myfbbot",
+  "version": "1.0.0",
+  "description": "My Sample FB bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkanna0988/MyFBbotrepo.git"
+  },
+  "author": "Ramana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkanna0988/MyFBbotrepo/issues"
+  },
+  "homepage": "https://github.com/rkanna0988/MyFBbotrepo#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
